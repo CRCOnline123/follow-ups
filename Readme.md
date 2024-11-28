@@ -1,4 +1,4 @@
-# Lead Follow-Up App
+# Lead Follow-Up App - CRC
 
 A streamlined solution to manage and automate lead follow-up processes, ensuring timely communication and engagement with your potential customers or members.
 
